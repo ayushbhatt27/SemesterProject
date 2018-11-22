@@ -29,7 +29,7 @@ Answers to questions are contiguous and can range anywhere from the start to end
 Around 75% of the answers have a word length of less than or equal to 4. There are multiple articles or contexts on several different topics and question answer pairs on these contexts. The glove vectors used were of dimension 100.
 
 ### How to run the code: 
-First install all the dependecies as mentioned in the requirements.
+First install all the dependecies as mentioned in the requirements and run squad_preprocess.py to generate input files.
 - To train the model (from parent directory):- 
 ```sh
 $ cd code
