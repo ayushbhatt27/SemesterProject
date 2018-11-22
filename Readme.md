@@ -11,7 +11,7 @@ Install the following packages using pip install:-
 - tensorflow-gpu 1.4.1 
 - tensorflow-tensorboard 0.4.0
 - tqdm 4.19.5
-- download glove vectors from [here](https://nlp.stanford.edu/projects/glove/).Extarct the files and paste all the files in data folder.
+- download glove vectors from [here](https://nlp.stanford.edu/projects/glove/).Extract the files and paste all the files in data folder.
 
 ### About the Dataset :-
 The dataset used is SQuAD 1.1 and has the following.
